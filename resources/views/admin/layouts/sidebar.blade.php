@@ -32,7 +32,7 @@
 
         {{-- Manage Categories end --}}
 
-            {{-- Ecommerce Start --}}
+            {{-- Ecommerce with vendor Start --}}
 
       <li class="dropdown {{ setActive([
       'admin.category.*',
@@ -45,7 +45,7 @@
           </ul>
         </li>
           
-        {{-- Ecommerce end --}}
+        {{-- Ecommerce with vendor end --}}
 
         {{-- Manage Products Start --}}
 
